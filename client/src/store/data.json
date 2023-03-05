@@ -1,0 +1,40 @@
+{
+  "doctor": [
+    {
+      "id": "AD0001",
+      "name": "Dr. B Ramesh",
+      "paragraph": "Founder, Medical Director",
+      "image": "https://altiushospital.com/wp-content/uploads/2022/12/Dr.-Ramesh-photograph.png",
+      "Education": "MBBS, MD – OBG, DGO, FCPS –General Surgery",
+      "Specialization": "Chief Gynaec Laparoscopic Surgeon, Infertility, IVF Specialist, Urogynaecologist",
+      "Experience": "25+ Years Of Experience",
+      "Location": "HBR Layout",
+      "Registration": "(KMC No)28563",
+      "Abouts": "Dr. B. Ramesh is one amongst the leading Gynaec. Laparoscopic surgeons in India with significant presence in clinical and academic circles all over India and being regularly invited as chairperson, speaker and faculty for major conferences relating to Gynaecological Laparoscopy and Infertility.Dr. Ramesh also conducts live surgical workshops in these forums. These presentations are frequent, occurring 2-3 times per month across major academic centres all over India. Currently, he is the Director and Chief Endoscopic surgeon for Altius Hospital, a referral center dealing with complicated laparoscopic and hysteroscopic procedures. Dr. B. Ramesh has performed over 100000 major Gynaec Laparoscopic Surgeries, a major feat in India and more than 9000 Laparoscopic Hysterectomies. Dr. B. Ramesh is the first gynaecologist to perform 3D laparoscopic surgeries in India. He is specialized in various laparoscopic sling procedures for nulliparous prolapse, Hysteroscopic surgeries for uterine septum, Tubal Cannulations, Adhesiolysis and all methods of endometrial ablation including TCRE and LASER ablation, as an alternative to hysterectomy. Dr. Ramesh also deals with cases of urinary stress incontinence and laparoscopic pelvic floor repair referred by Gynaecologists and other colleagues. His special interest in Infertility treatment and IVF and has been successfully running two IVF centres in India."
+    },
+    {
+      "id": "AD0002",
+      "name": "Dr. Syed Imran",
+      "paragraph": "Head - Department of Orthopedics, Bone & Joint Surgery",
+      "image": "https://altiushospital.com/wp-content/uploads/2022/09/dr-imran-1024x1024.jpg",
+      "Education": "MBBS, D Ortho",
+      "Specialization": "Orthopedics",
+      "Experience": "12+ Years Of Experience",
+      "Location": "HBR Layout",
+      "Registration": "73848",
+      "Abouts": "Dr Syed Imran is a committed professional who puts needs of his patients first. He has demonstrated expertise from diagnosis to management of difficult procedures. He has been trained at Endoklinik, Germany the largest centre in Europe for Joint replacement . He has worked at prestigious hospitals like Fortis, Vikram and Manipal. He adopts the latest and safest surgical techniques with latest of technology to achieve excellent clinical outcomes. His areas of interest are Joint Replacement  ( Hip, knee , shoulder ) , Arthroscopic surgery and Trauma."
+    },
+    {
+      "id": "AD003",
+      "name": "Dr. Satish Babu HV",
+      "paragraph": "Consultant Neurosurgeon",
+      "image": "https://altiushospital.com/wp-content/uploads/2023/03/Doctors-Profile.png",
+      "Education": " MBBS, Mch(Neurosurgery)",
+      "Specialization": "Chief Gynaec Laparoscopic Surgeon, Infertility, IVF Specialist, Urogynaecologist",
+      "Experience": "",
+      "Location": "HBR Layout",
+      "Registration": "(KMC No)31171",
+      "Abouts": ""
+    }
+  ]
+}
